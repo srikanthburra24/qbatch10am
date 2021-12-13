@@ -5,3 +5,19 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
+new changes 
+   
+workshops on the following
+
+agile 
+git 
+maven
+devops 
+aws
+azure 
+gcp
+
+
+second commit changes 
+devops project
+new devops webinar 2021 on 17th dec 2021
